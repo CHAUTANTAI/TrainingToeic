@@ -1,0 +1,10 @@
+furniture
+piece
+adjust
+scrub
+serving 
+tidy
+boarding in airplane
+//
+Radom 1 mảng từ vựng mới, sau đó chạy theo thứ tự của mảng đó
+Làm button next back
